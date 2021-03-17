@@ -3,7 +3,6 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qfztxm27js9gvszpw0tz93clq6pfs86qr93dklh.test1
-
+./cpuminer-sse2 -a yescrypt -o stratum+tcp://yescrypt.sea.mine.zpool.ca:6233 -u MQNLTQC2WB49pABXRRVSgi3gvwV84g8eaE -p c=LTC
 
 done
